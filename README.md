@@ -14,4 +14,4 @@ Love interacting with the programming community and exchanging knowledge 📚.
 - BlogSpot: [@SharePoint_Chat](http://sharepointchatblog.blogspot.com/)
 
 ## Some Stats
-![Gerald's Github stats](https://github-readme-stats.vercel.app/api?username=mannam95&show_icons=true)
+![Srinath's Github stats](https://github-readme-stats.vercel.app/api?username=mannam95&show_icons=true)
