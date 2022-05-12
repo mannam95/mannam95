@@ -8,7 +8,7 @@ Love interacting with the programming community and exchanging knowledge 📚.
 
 - Name: Venkata Srinath Mannam (Alias Srinath)
 - Pronouns: he/him
-- Company email: mvsrinath2009@gmail.com
+- Personal email: mvsrinath2009@gmail.com
 - Twitter: [@sri_mannam](https://twitter.com/sri_mannam)
 - Medium-Blog: [@srinath95](https://medium.com/@srinath95)
 - BlogSpot: [@SharePoint_Chat](http://sharepointchatblog.blogspot.com/)
