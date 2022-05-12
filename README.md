@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi there 👋 I'm Srinath
 
-<!--
-**mannam95/mannam95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently pursuing master's in Data Science at OVGU and employed as a work-student at Yellow-Ant. Formerly working as full-stack SDE at CGI.
 
-Here are some ideas to get you started:
+Love interacting with the programming community and exchanging knowledge 📚.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🤓 - About
+
+- Name: Venkata Srinath Mannam (Alias Srinath)
+- Pronouns: he/him
+- Company email: mvsrinath2009@gmail.com
+- Twitter: [@sri_mannam](https://twitter.com/sri_mannam)
+- Medium-Blog: [@srinath95](https://medium.com/@srinath95)
+- BlogSpot: [@SharePoint_Chat](http://sharepointchatblog.blogspot.com/)
+
+## Some Stats
+![Gerald's Github stats](https://github-readme-stats.vercel.app/api?username=mannam95&show_icons=true)
