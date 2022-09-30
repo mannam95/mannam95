@@ -30,6 +30,6 @@ Love interacting with the programming community and exchanging knowledge 📚.
 - Down the line, I would like to see my self as a Machine Learning Engineer/Deep Learning Enginner.
 
 
-
 ## Some Stats
-![Srinath's Github stats](https://github-readme-stats.vercel.app/api?username=mannam95&show_icons=true)
+<img src="https://github-readme-stats.vercel.app/api?username=mannam95&show_icons=true&theme=synthwave&locale=en" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mannam95&show_icons=true&theme=synthwave&locale=en&layout=compact" width="40%"/> 
+ 
