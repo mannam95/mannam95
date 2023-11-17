@@ -3,7 +3,7 @@
 ## Current Status
 - Completed master's in Data Science at OVGU and employed as a full-stack cloud developer at Yellow-Ant. Formerly working as full-stack SDE at CGI.
 - Completed my Master Thesis on ` Securing Generator of a GAN by training with watermarked images ` with a 1.1 Grade.
-- Down the line, I would like to see myself as a Machine Learning Engineer/Deep Learning Engineer.
+- Down the line, I would like to see myself as a Full Stack Cloud Developer/Machine Learning Engineer/Deep Learning Engineer.
 
 ## 🤓 - About
 
