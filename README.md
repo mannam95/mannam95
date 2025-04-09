@@ -27,16 +27,16 @@
 
 | Type               | Technologies                                                                                       |
 |--------------------|----------------------------------------------------------------------------------------------------|
-| Programming        | Python, TypeScript, C#, Html, JavaScript, JAVA, R                                                |
-| Database           | SQL, MS-SQL, NoSQL                                                                                         |
-| Software Framework | Angular, Flutter, Spark                                                                            |
+| Programming        | Python, TypeScript, C#, HTML, JavaScript, Java, R                                                  |
+| Database           | SQL, MS-SQL, MySQL, NoSQL                                                                        |
+| Software Framework | React, Angular, Flutter                                                                            |
 | ML Framework       | TensorFlow, Keras, PyTorch                                                                         |
-| Python Libraries   | NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV                                                 |  
-| Operating System   | Linux, Windows, MacOS                                                                             |
-| Version Control    | GitHub, GitLab, Azure-Git                                                                        |
-| Cloud              | Azure, AWS                                                                                             |
-| CI/CD              | Docker, Kubernetes, Azure CI/CD                                                                  |
-| Tools              | VSCode, Weights and Biases, Visual Studio Enterprise, Eclipse, Jupyter Notebook                 |
+| Python Libraries   | NumPy, Pandas, Matplotlib, Scikit-learn, OpenCV                                                    |  
+| Operating System   | Linux, Windows, macOS                                                                              |
+| Version Control    | GitHub, GitLab, Azure DevOps                                                                       |
+| Cloud              | Azure, AWS                                                                                         |
+| CI/CD              | Docker, Kubernetes, Azure Pipelines                                                                |
+| Tools              | VS Code, Weights & Biases, Visual Studio, Eclipse, Jupyter Notebook                                |
 
 
 
